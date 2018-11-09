@@ -1,0 +1,7 @@
+					Learning GIT
+
+What is VCS?
+	-> VCS is used for source code management.
+	-> changes made to the file can be tracked and can revert changes.
+	-> compare the changes made to the file over time from one version to another.
+	-> version control can keep track of any file.
